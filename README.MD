@@ -1,13 +1,11 @@
-**Título del Proyecto: Chatbot de Administración de Consorcios con Integración de WhatsApp en Python** 🏢🤖📱
+## **Título del Proyecto: Chatbot de Administración de Consorcios con Integración de WhatsApp en Python** 🏢🤖📱
 
-**Descripción:**
+### **Descripción:**
+El proyecto de *Chatbot de Administración de Consorcios* con integración de WhatsApp en Python tiene como objetivo principal simplificar y mejorar la comunicación entre los administradores de consorcios y los residentes. Este chatbot utiliza la API de WhatsApp para ofrecer una experiencia de usuario intuitiva y accesible, aprovechando las ventajas de la mensajería instantánea para agilizar procesos y resolver consultas de manera eficiente.
 
-El proyecto de Chatbot de Administración de Consorcios con Integración de WhatsApp en Python tiene como objetivo principal simplificar y mejorar la comunicación entre los administradores de consorcios y los residentes. Este chatbot utiliza la API de WhatsApp para ofrecer una experiencia de usuario intuitiva y accesible, aprovechando las ventajas de la mensajería instantánea para agilizar procesos y resolver consultas de manera eficiente.
-
-**Características Principales:**
-
+### **Características Principales:**
 1. **Registro de Usuarios:** 📝👥 El chatbot permite a los residentes registrarse fácilmente proporcionando información básica, como nombre, número de unidad y detalles de contacto.
-
+   
 2. **Consulta de Saldo y Pagos:** 💵📅 Los residentes pueden realizar consultas sobre saldos pendientes, fechas de vencimiento y realizar pagos directamente a través del chatbot.
 
 3. **Notificaciones Automáticas:** 📬🔔 El chatbot envía notificaciones automáticas sobre fechas importantes, asambleas, pagos pendientes y otros eventos relevantes para los residentes y administradores.
@@ -22,8 +20,7 @@ El proyecto de Chatbot de Administración de Consorcios con Integración de What
 
 8. **Seguridad y Privacidad:** 🔐🛡️ Se implementan medidas de seguridad robustas para proteger la información confidencial de los residentes, cumpliendo con los estándares de privacidad y regulaciones aplicables.
 
-**Tecnologías Utilizadas:**
-
+### **Tecnologías Utilizadas:**
 - Python para el desarrollo del backend.
 - API de WhatsApp para la integración de mensajería.
 - Base de datos para almacenar información de usuarios y transacciones.
