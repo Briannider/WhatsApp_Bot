@@ -1,1 +1,6 @@
 token = 'psalms_55:22'
+
+
+whatsapp_token = 'EAAKN9qCpNLsBO0wdNF3Iq0oOyr6kJzihvVHoEPVpe31cjSVmfYvU7cqeXoZCWpkwZA7ezxizQ47POq5PKWaWr8rZCTz8waY2PZAMxo4qKGRpc6lGZCCfK4ZB8THeyZCefrZBrX2NqrrIm1T8fxKBkqjca94nLiX0I4OZAf9qwHpEUOIZAzcQINQ4vhJ1AUJ4rINAy8YUR6ZBEBZAPEAs68O6'
+
+whatsapp_url = 'https://graph.facebook.com/v18.0/197415586798280/messages'
