@@ -1,7 +1,7 @@
 ## **Título del Proyecto: Chatbot de Administración de Consorcios con Integración de WhatsApp en Python** 🏢🤖📱
 
 ### **Descripción:**
-El proyecto de *Chatbot de Administración de Consorcios* con integración de WhatsApp en Python tiene como objetivo principal simplificar y mejorar la comunicación entre los administradores de consorcios y los residentes. Este chatbot utiliza la API de WhatsApp para ofrecer una experiencia de usuario intuitiva y accesible, aprovechando las ventajas de la mensajería instantánea para agilizar procesos y resolver consultas de manera eficiente.
+El proyecto de **Chatbot de Administración de Consorcios** con integración de WhatsApp en Python tiene como objetivo principal simplificar y mejorar la comunicación entre los administradores de consorcios y los residentes. Este chatbot utiliza la API de WhatsApp para ofrecer una experiencia de usuario intuitiva y accesible, aprovechando las ventajas de la mensajería instantánea para agilizar procesos y resolver consultas de manera eficiente.
 
 ### **Características Principales:**
 1. **Registro de Usuarios:** 📝👥 El chatbot permite a los residentes registrarse fácilmente proporcionando información básica, como nombre, número de unidad y detalles de contacto.
@@ -22,8 +22,8 @@ El proyecto de *Chatbot de Administración de Consorcios* con integración de Wh
 
 ### **Tecnologías Utilizadas:**
 - Python para el desarrollo del backend.
-- API de WhatsApp para la integración de mensajería.
-- Base de datos para almacenar información de usuarios y transacciones.
-- Framework de desarrollo web para la interfaz de administración.
+- API Cloud de WhatsApp Business para la integración de mensajería.
+- MongoDB como base de datos para almacenar información de usuarios y transacciones.
+- Flask como framework de desarrollo web para la interfaz de administración.
 
 Con este proyecto, se busca optimizar la gestión de consorcios, proporcionando una herramienta eficaz y fácil de usar que mejore la comunicación y la eficiencia operativa tanto para los residentes como para los administradores. 🚀💬

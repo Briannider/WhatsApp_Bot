@@ -21,9 +21,6 @@ def enviar_Mensaje_whatsapp(data):
         whatsapp_url = sett.whatsapp_url
         headers = {'Content-Type': 'application/json',
                    'Authorization': 'Bearer ' + whatsapp_token}
-        response = requests.post(whatsapp_url,
-                                 headers=headers,
-                                 data=data)
 
         print("se envia ", data)
         response = requests.post(whatsapp_url,
@@ -47,6 +44,42 @@ def text_Message(number, text):
             "type": "text",
             "text": {
                     "body": text
+            }
+        }
+    )
+    return data
+
+
+def buttonReply_Message(number, options, body, footer, sedd, messageId):
+    buttons = []
+    for i, option in enumerate(options):
+        buttons.append(
+            {
+                "type": "reply",
+                "reply": {
+                    "id": sedd + "_btn_" + str(i+1),
+                    "text": option
+                }
+            }
+        )
+
+    data = json.dumps(
+        {
+            "messaging_product": "whatsapp",
+            "recipient_type": "individual",
+            "to": number,
+            "type": "interactive",
+            "interactive": {
+                "type": "button",
+                "body": {
+                    "text": body
+                },
+                "footer": {
+                    "text": footer
+                },
+                "action": {
+                    "buttons": buttons
+                }
             }
         }
     )
