@@ -29,7 +29,7 @@ BD: ¡Genial! Por favor, espera un momento.
 
 (BD: envía un archivo PDF "contrato_de_inquilinos.pdf")
 
-BD: ¿Te gustaría hacer alguna otra consulta?
+BD: ¿Te gustaria programar una reunion con una de nuestras administradoras?
 - Opción 11: Sí.
 - **Opción 12: No, gracias.** 🙏
 
