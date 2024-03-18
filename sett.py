@@ -1,9 +1,9 @@
-token = 'psalms_55:22'
+token = "psalms_55:22"
 
 
-whatsapp_token = 'EAAKN9qCpNLsBO0wdNF3Iq0oOyr6kJzihvVHoEPVpe31cjSVmfYvU7cqeXoZCWpkwZA7ezxizQ47POq5PKWaWr8rZCTz8waY2PZAMxo4qKGRpc6lGZCCfK4ZB8THeyZCefrZBrX2NqrrIm1T8fxKBkqjca94nLiX0I4OZAf9qwHpEUOIZAzcQINQ4vhJ1AUJ4rINAy8YUR6ZBEBZAPEAs68O6'
+whatsapp_token = "EAAKN9qCpNLsBO0wdNF3Iq0oOyr6kJzihvVHoEPVpe31cjSVmfYvU7cqeXoZCWpkwZA7ezxizQ47POq5PKWaWr8rZCTz8waY2PZAMxo4qKGRpc6lGZCCfK4ZB8THeyZCefrZBrX2NqrrIm1T8fxKBkqjca94nLiX0I4OZAf9qwHpEUOIZAzcQINQ4vhJ1AUJ4rINAy8YUR6ZBEBZAPEAs68O6"
 
-whatsapp_url = 'https://graph.facebook.com/v18.0/197415586798280/messages'
+whatsapp_url = "https://graph.facebook.com/v18.0/197415586798280/messages"
 
 
 stickers = {
@@ -19,8 +19,8 @@ stickers = {
     "gato_juzgando": 107235069063072,
     "chicorita": 3431648470417135,
     "gato_triste": 210492141865964,
-    "gato_cansado": 1021308728970759
+    "gato_cansado": 1021308728970759,
 }
 
 
-document_url = "https://www.africau.edu/images/default/sample.pdf"
+document_url = "Correlativas-plan-2023.pdf"
