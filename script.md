@@ -1,5 +1,5 @@
 # FN Consorcios:
-¡Bienvenido a FNconsorcios! ¿En qué podemos ayudarte hoy? :wave:
+¡Bienvenido/a! ¿En qué podemos ayudarte hoy? :wave:
 - **Opción 1: Consultas administrativas 🗃**
 - Opción 2: Números de emergencia ☎️ 
 

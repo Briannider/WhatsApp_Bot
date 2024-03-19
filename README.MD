@@ -27,3 +27,11 @@ El proyecto de **Chatbot de Administración de Consorcios** con integración de 
 - Flask como framework de desarrollo web para la interfaz de administración.
 
 Con este proyecto, se busca optimizar la gestión de consorcios, proporcionando una herramienta eficaz y fácil de usar que mejore la comunicación y la eficiencia operativa tanto para los residentes como para los administradores. 🚀💬
+
+## **Technical requeriments:**
+
+- Python
+    - install virtualenv
+- Glitch Account (**Free**)
+    - to publish the bot
+- Postman (messages simulator)

@@ -6,6 +6,7 @@ __pycache__/
 # Ignorar entorno virtual
 venv/
 env/
+.venv
 
 # Ignorar configuraciones específicas del entorno
 instance/
