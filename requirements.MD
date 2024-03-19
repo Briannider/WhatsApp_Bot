@@ -1,5 +1,5 @@
 
-# Technical requeriments:
+# Technical requeriments
 
 - Python
     - install virtualenv
